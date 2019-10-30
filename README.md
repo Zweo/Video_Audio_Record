@@ -7,3 +7,4 @@ Automatically record Screen(video and audio) on the computer, and combine them i
 
 自动录制音频、视频，并合并转换为mp4格式
 
+遵纪守法，谨慎使用！
